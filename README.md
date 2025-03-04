@@ -18,7 +18,7 @@ In my free time, you'll find me going on hikes, camping, biking, exploring with 
 
 * 🌍  I'm based in United States, Utah
 * ✉️  You can contact me at [paul@blackfamily.one](mailto:paul@blackfamily.one)
-* 🚀  I'm currently working on [Google Voice & Matrix bridge](http://https://github.com/Techwizz-somboo/google-voice-matrix)
+* 🚀  I'm currently working on [Google Voice & Matrix bridge](https://github.com/Techwizz-somboo/google-voice-matrix)
 * ⚡  I won't stop programming until I hit 1 million commits
 
 <a href="https://www.github.com/techwizz-somboo" target="_blank" rel="noreferrer"><img
