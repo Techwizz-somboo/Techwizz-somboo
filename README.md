@@ -12,7 +12,9 @@ At my job, I help build a Warehouse Management System. Our backend is in ASP .NE
 
 The programming languages I'm most familiar with are C#, C++, Python, Rust, and Javascript. 
 
-The framework I'm most familiar with is ASP .NET MVC. I'm best with the following Markup: Markdown, HTML, and XML. 
+The framework I'm most familiar with is ASP .NET MVC. 
+
+I'm best with the following Markup: Markdown, HTML, and XML. 
 
 In my free time, you'll find me going on hikes, camping, biking, exploring with friends, and much more.
 
