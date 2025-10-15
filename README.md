@@ -8,8 +8,6 @@ I've learned how to code from a very early age, and legitimately really enjoy it
 
 I'm very familar Linux, on both desktops and servers, along with FreeBSD. I host my own cluster on SUSE Harvester, and I'm also familar with Proxmox. My favorite distribution on the server is OpenSUSE Leap, but I'm familar with most distributions including Debian, Ubuntu, Alpine, CentOS, Rocky Linux, AlmaLinux, and Fedora. I self-host many services for myself and others. Some services I host include Nextcloud, Forgejo, Jellyfin, various game servers, various REST APIs, and much more. 
 
-At my job, I help build a Warehouse Management System. Our backend is in ASP .NET Framework 4 MVC, which is a great framework for building web apps. I've helped implement various systems, one of my favorites being a Batch Builder, which gives a lot of power with configuring a batch of packing slips to be printed. You can add filters based on the source of the order, for example, Shopify. There's an option for carrier and shipping method, so you can get only orders going through USPS or Ground Advantage, as an example. You can also filter based on country and configuration, a configuration being the items in an order. You can then mix and match multiple filter sets. Once the orders are selected based on the filters, it will then create a PDF full of packing slips matching your critera. 
-
 The programming languages I'm most familiar with are C#, C++, Python, Rust, and Javascript. 
 
 The framework I'm most familiar with is ASP .NET MVC. 
